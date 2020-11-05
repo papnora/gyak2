@@ -1,0 +1,4 @@
+Ez egy kód első sora
+Ez a második
+A harmadik
+A negyedik
